@@ -1,0 +1,87 @@
+{
+    "Visibility": {
+        "Weights": 0.4966,
+        "Entropy": 0.9592,
+        "EffectiveValue": 0.0408,
+        "id_Denisty": {
+            "Weights": 0.01,
+            "Entropy": 0.9982,
+            "EffectiveValue": 0.0018
+        },
+        "id_area_origin": {
+            "Weights": 0.35,
+            "Entropy": 0.9541,
+            "EffectiveValue": 0.0459
+        },
+        "id_area_voronoi": {
+            "Weights": 0.63,
+            "Entropy": 0.9174,
+            "EffectiveValue": 0.0826
+        }
+    },
+    "Geometry": {
+        "Weights": 0.1049,
+        "Entropy": 0.9914,
+        "EffectiveValue": 0.0086,
+        "id_rectangualroty": {
+            "Weights": 0.0231,
+            "Entropy": 0.9926,
+            "EffectiveValue": 0.0074
+        },
+        "id_Aspect_ratio": {
+            "Weights": 0.1235,
+            "Entropy": 0.9605,
+            "EffectiveValue": 0.0395
+        },
+        "id_perimeter_convexity": {
+            "Weights": 0.4932,
+            "Entropy": 0.8422,
+            "EffectiveValue": 0.1578
+        },
+        "id_area_convexity": {
+            "Weights": 0.0147,
+            "Entropy": 0.9953,
+            "EffectiveValue": 0.0047
+        },
+        "id_sphericity": {
+            "Weights": 0.0256,
+            "Entropy": 0.9918,
+            "EffectiveValue": 0.0082
+        },
+        "id_ecentricity": {
+            "Weights": 0.2243,
+            "Entropy": 0.9282,
+            "EffectiveValue": 0.0718
+        },
+        "id_circularity": {
+            "Weights": 0.0624,
+            "Entropy": 0.98,
+            "EffectiveValue": 0.02
+        },
+        "id_shape_factor": {
+            "Weights": 0.0333,
+            "Entropy": 0.9894,
+            "EffectiveValue": 0.0106
+        }
+    },
+    "Size": {
+        "Weights": 0.3985,
+        "Entropy": 0.9672,
+        "EffectiveValue": 0.0328,
+        "id_perimeter_oripoly": {
+            "Weights": 0.2044,
+            "Entropy": 0.9783,
+            "EffectiveValue": 0.0217
+        },
+        "id_min_rect_area": {
+            "Weights": 0.6135,
+            "Entropy": 0.935,
+            "EffectiveValue": 0.065
+        },
+        "id_mini_rect_perimeter": {
+            "Weights": 0.1821,
+            "Entropy": 0.9807,
+            "EffectiveValue": 0.0193
+        }
+    }
+}
